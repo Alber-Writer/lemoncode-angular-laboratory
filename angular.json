@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/01-layout-mini-aplicacion__basico",
+            "outputPath": "dist/lemoncode-angular-laboratory",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
