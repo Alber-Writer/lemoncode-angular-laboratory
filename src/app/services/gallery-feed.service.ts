@@ -4,7 +4,7 @@ import { Image } from '../model/gallery-model';
 const imagesFeed:Image[] = [
   {
     id: 101,
-    src: '/assets/gallery_imgs/01.webp',
+    src: './assets/gallery_imgs/01.webp',
     title: 'Coast landscape',
   },
   {
